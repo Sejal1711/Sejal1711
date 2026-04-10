@@ -34,23 +34,6 @@ I love building **beautiful full-stack products** and **intelligent AI agent sys
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,python,ts,js,mongodb,postgres,git,github,vercel,tailwind,bootstrap,mysql,git" />
 </p>
 
----
-```
-
-> I enjoy turning ideas into polished products — from **database schema to delightful UI**, and from **LLM prompts to autonomous agents**.
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sejal1711&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal1711&layout=compact&hide_border=true" height="160" />
-</p>
-
----
-
-## 🌍 Let’s Connect
 
 * 💼 LinkedIn: [www.linkedin.com/in/sejal-pawar-5512032a0](http://www.linkedin.com/in/sejal-pawar-5512032a0)
 * 📧 Email: [sejaldyp@gmail.com](mailto:sejaldyp@gmail.com)
