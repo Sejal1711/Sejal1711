@@ -21,9 +21,9 @@
   <br>
 
 - 🌐 <samp><b>Full-Stack Web Developer</b>
-- 🤖 <samp><b>AI & LLM Systems Builder</b>
+- 🤖 <samp><b>AI Systems Builder</b>
 - ⚙️ <samp>Backend architecture & scalable APIs
-- 🧠 <samp>Multi-agent systems & LLM orchestration
+- 🧠 <samp>Multi-agent systems
 - 🔁 <samp>Automation & autonomous task execution
 - 💬 <samp>Ask me about Full-Stack Dev, AI agents, and backend systems
 - ⚡ <samp>Fun fact: Debugging at 2 AM is expected
